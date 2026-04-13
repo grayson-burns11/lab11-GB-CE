@@ -1,3 +1,6 @@
+#https://github.com/grayson-burns11/lab11-GB-CE.git
+#Partner 1: Chukwuemeka Ekpebegh
+#Partner 2: Grayson Burns
 import unittest
 from calculator import *
 
