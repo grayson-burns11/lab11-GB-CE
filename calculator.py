@@ -1,9 +1,4 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
 
-One function per operation, in order.
-"""
 import math
 
 def add(a, b):
@@ -12,10 +7,6 @@ def subtract(a, b):
     return a-b
 def multiply(a, b):
     return a*b
-def divide(a, b):
-    if b == 0:
-        raise ZeroDivisionError
-    return b/a
 def logarithm(a, b):
     if a == 1 or b<=0 or a <=0:
         raise ValueError
